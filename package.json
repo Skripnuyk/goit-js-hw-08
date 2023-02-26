@@ -9,21 +9,13 @@
   },
   "repository": {
     "type": "git",
-<<<<<<< Updated upstream
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
-=======
-    "url": "git+https://github.com/skripnuyk/goit-js-hw-08.git"
->>>>>>> Stashed changes
+    "url": "git+https://github.com/Skripnuyk/goit-js-hw-08.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-<<<<<<< Updated upstream
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
-=======
-    "url": "https://github.com/skripnuyk/goit-js-hw-08/issues"
->>>>>>> Stashed changes
+    "url": "https://github.com/Skripnuyk/goit-js-hw-08/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
